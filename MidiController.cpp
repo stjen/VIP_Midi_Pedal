@@ -6,7 +6,6 @@
  */
 
 #include "MidiController.h"
-#include "common.h"
 #include "Arduino.h"
 
 /*
