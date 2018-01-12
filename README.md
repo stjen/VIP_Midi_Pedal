@@ -1,2 +1,5 @@
-# VIP_Midi_Pedal
-Repo for the Vypyr VIP 1 Midi Pedal 
+# VIP Midi Pedal
+
+Git repo for the VIP Midi Pedal.
+
+Documentation and more at http://upx.dk/projects/vip_midi_pedal
